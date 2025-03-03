@@ -32,6 +32,8 @@ Features:
 It's a project that is close to my heart and while frontend is clearly not my forte, I tried my best to design their website.  
 You can find it [HERE](https://foniyehoshoa.org)
 
+---
+
 ## [FR] (English above)
 **Le moyen simple et rapide de naviguer à travers tous mes projets**
 👋 Salut ! Je m'appelle Zivan, je suis DevOps/Cloud Engineer junior!  
