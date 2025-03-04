@@ -14,7 +14,7 @@ I made this repo to provide an easy and organized way to navigate through my pro
 # Projects
 ## Dev
 - [Social media app with live chat](https://github.com/Zivan-R/PROJECT-live-chat-social-media-app)
-*Fullstack app made with Django, Vue3, TailwindCSS, SQLite (db) and SocketIO (for the live chat)*
+*Fullstack app made with Django, Vue3, TailwindCSS, SQLite (db) and SocketIO (for the live chat)*  
 Features:
    - Account creation
    - Authentication
@@ -48,7 +48,7 @@ J'espère que vous apprécierez votre visite ici!
 # Projets
 ## Dev
 - [Réseau social avec chat en direct](https://github.com/Zivan-R/PROJECT-live-chat-social-media-app)
-*Application fullstack réalisée avec Django, Vue3, TailwindCSS, SQLite (pour la db) et SocketIO (pour le chat en direct)*
+*Application fullstack réalisée avec Django, Vue3, TailwindCSS, SQLite (pour la db) et SocketIO (pour le chat en direct)*  
 Fonctionnalités :
    - Création de compte
    - Authentification
