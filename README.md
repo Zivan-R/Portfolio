@@ -43,7 +43,7 @@ You can find it [HERE](https://foniyehoshoa.org)
 J'ai créé ce repo afin de proposer un moyen simple et organisé de découvrir mes projets.  
 J'espère que vous apprécierez votre visite ici!
 
-🤝 Envie de collaborer ? N'hésitez pas à m'envoyer un email à z.rasolofo@gmail.com
+🤝 Envie de collaborer ? N'hésitez pas à m'envoyer un email à **z.rasolofo@gmail.com**
 
 # Projets
 ## Dev
