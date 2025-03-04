@@ -63,5 +63,5 @@ Fonctionnalités :
 *Site web développé avec Vue3 et TailwindCSS* 
 
   Foni'Yehoshoa est une association chrétienne à but non lucratif ayant pour principal objectif d’agir en faveur de Madagascar, mon pays d'origine.  
-C’est donc un projet qui me tient particulièrement à cœur et, même si le frontend n’est pas mon domaine de prédiléction, j’ai fait de mon mieux pour concevoir leur site web. 
+C’est donc un projet qui me tient particulièrement à cœur et, même si le frontend n’est pas mon domaine de prédiléction, j’ai fait de mon mieux pour concevoir leur site web.  
 Vous pouvez le retrouver [ICI](https://foniyehoshoa.org)
