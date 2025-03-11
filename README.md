@@ -13,7 +13,7 @@ I made this repo to provide an easy and organized way to navigate through my pro
 
 # Projects
 ## DevOps / Cloud
-- [Deploy and configure an infrastructure for production and testing](https://github.com/Zivan-R/MINI-PROJECT-ansible-jenkins-python)  
+- [Deploy and configure an infrastructure for production and testing + CI/CD](https://github.com/Zivan-R/MINI-PROJECT-ansible-jenkins-python)  
 *Microsoft Azure, Ansible, Git, GitHub, Jenkins, Docker, MySQL*  
 Mini-project to experiment mainly with Ansible and Jenkins.  
 The goal was to deploy a simple infrastructure on Azure, automate it's configuration with Ansible and set up two simple CI/CD pipelines, one for production and another for testing environment with versionning using Git and GitHub.
@@ -52,6 +52,12 @@ J'espère que vous apprécierez votre visite ici!
 🤝 Envie de collaborer ? N'hésitez pas à m'envoyer un email à **z.rasolofo@gmail.com**
 
 # Projets
+## DevOps / Cloud
+- [Déploiement et configuration d'une infrastructure pour la production et les tests + CI/CD](https://github.com/Zivan-R/MINI-PROJECT-ansible-jenkins-python)  
+*Microsoft Azure, Ansible, Git, GitHub, Jenkins, Docker, MySQL*  
+Mini-projet axé principalement sur Ansible et Jenkins.  
+L'objectif était de déployer une infrastructure simple sur Azure, d'automatiser sa configuration avec Ansible et de mettre en place deux pipelines CI/CD distincts : l'un pour la production et l'autre pour l'environnement de test, avec gestion de version via Git et GitHub.
+
 ## Dev
 - [Réseau social avec chat en direct](https://github.com/Zivan-R/PROJECT-live-chat-social-media-app)
 *Application fullstack réalisée avec Django, Vue3, TailwindCSS, SQLite (pour la db) et SocketIO (pour le chat en direct)*  
