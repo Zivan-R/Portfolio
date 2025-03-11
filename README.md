@@ -14,7 +14,7 @@ I made this repo to provide an easy and organized way to navigate through my pro
 # Projects
 ## DevOps / Cloud
 - [Deploy and configure an infrastructure for production and testing + CI/CD](https://github.com/Zivan-R/MINI-PROJECT-ansible-jenkins-python)  
-*Microsoft Azure, Ansible, Git, GitHub, Jenkins, Docker, MySQL*  
+*Microsoft Azure, Ansible, Git, GitHub, Jenkins, Docker, MySQL, Python, Pytest*  
 Mini-project to experiment mainly with Ansible and Jenkins.  
 The goal was to deploy a simple infrastructure on Azure, automate it's configuration with Ansible and set up two simple CI/CD pipelines, one for production and another for testing environment with versionning using Git and GitHub.
 
@@ -54,7 +54,7 @@ J'espère que vous apprécierez votre visite ici!
 # Projets
 ## DevOps / Cloud
 - [Déploiement et configuration d'une infrastructure pour la production et les tests + CI/CD](https://github.com/Zivan-R/MINI-PROJECT-ansible-jenkins-python)  
-*Microsoft Azure, Ansible, Git, GitHub, Jenkins, Docker, MySQL*  
+*Microsoft Azure, Ansible, Git, GitHub, Jenkins, Docker, MySQL, Python, Pytest*  
 Mini-projet axé principalement sur Ansible et Jenkins.  
 L'objectif était de déployer une infrastructure simple sur Azure, d'automatiser sa configuration avec Ansible et de mettre en place deux pipelines CI/CD distincts : l'un pour la production et l'autre pour l'environnement de test, avec gestion de version via Git et GitHub.
 
