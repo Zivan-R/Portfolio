@@ -20,7 +20,7 @@ Mini-project to experiment mainly with Ansible and Jenkins.
 The goal was to deploy a simple infrastructure on Azure, automate it's configuration with Ansible and set up two simple CI/CD pipelines, one for production and another for testing environment with versionning using Git and GitHub.  
   
 - [Social media app with live chat](https://github.com/Zivan-R/PROJECT-live-chat-social-media-app) - ***Fullstack Development***  
-*Fullstack app made with Django, Vue3, TailwindCSS, SQLite (db) and SocketIO (for the live chat)*  
+*Django, Vue.js 3, TailwindCSS, SQLite, SocketIO*  
 Features:
    - Account creation
    - Authentication
@@ -32,9 +32,9 @@ Features:
    - And of course all of this is recorded in a well organized database. (SQLite for convenience)
 
 - [Website for the non-profit "Foni'Yehoshoa"](https://github.com/Zivan-R/PROJET-site-web-pour-l-association-foni-yehoshoa) - ***Front-end Development***  
-*Website made in Vue3 and TailwindCSS* 
+*Vue3, TailwindCSS* 
 
-  Foni'Yehoshoa is a christian non-profit that mainly aims to act in favor of Madagascar, my origin country  
+Foni'Yehoshoa is a christian non-profit that mainly aims to act in favor of Madagascar, my origin country  
 It's a project that is close to my heart and while frontend is clearly not my forte, I tried my best to design their website.  
 You can find it [HERE](https://foniyehoshoa.org)
 
@@ -55,12 +55,13 @@ J'espère que vous apprécierez votre visite !
 # Projets
   
 - [Déploiement et configuration d'une infrastructure pour la production et les tests + CI/CD](https://github.com/Zivan-R/MINI-PROJECT-ansible-jenkins-python) - ***DevOps***  
-*Microsoft Azure, Ansible, Git, GitHub, Jenkins, Docker, MySQL, Python, Pytest*  
+*Microsoft Azure, Ansible, Git, GitHub, Jenkins, Docker, MySQL, Python, Pytest*
+  
 Mini-projet axé principalement sur Ansible et Jenkins.  
 L'objectif était de déployer une infrastructure simple sur Azure, d'automatiser sa configuration avec Ansible et de mettre en place deux pipelines CI/CD distincts : l'un pour la production et l'autre pour l'environnement de test, avec gestion de version via Git et GitHub.
   
 - [Réseau social avec chat en direct](https://github.com/Zivan-R/PROJECT-live-chat-social-media-app) - ***Développement Fullstack***  
-*Application fullstack réalisée avec Django, Vue3, TailwindCSS, SQLite (pour la db) et SocketIO (pour le chat en direct)*  
+*Django, Vue.js 3, TailwindCSS, SQLite, SocketIO*  
 Fonctionnalités :
    - Création de compte
    - Authentification
@@ -74,6 +75,6 @@ Fonctionnalités :
 - [Site web pour l'association "Foni'Yehoshoa"](https://github.com/Zivan-R/PROJET-site-web-pour-l-association-foni-yehoshoa) - ***Développement Front-end***  
 *Site web développé avec Vue3 et TailwindCSS* 
   
-  Foni'Yehoshoa est une association chrétienne à but non lucratif ayant pour principal objectif d’agir en faveur de Madagascar, mon pays d'origine.  
+Foni'Yehoshoa est une association chrétienne à but non lucratif ayant pour principal objectif d’agir en faveur de Madagascar, mon pays d'origine.  
 C’est donc un projet qui me tient particulièrement à cœur et, même si le frontend n’est pas mon domaine de prédiléction, j’ai fait de mon mieux pour concevoir leur site web.  
 Vous pouvez le retrouver [ICI](https://foniyehoshoa.org)
