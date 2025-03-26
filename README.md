@@ -6,7 +6,7 @@
 🔥 I'm passionnate about everything related to DevOps, Dev, AI/ML and technology in general!  
 🌐 And I'm fluent in both English and French.
 
-I made this repo to provide an easy and organized way to navigate through my projects. I hope you enjoy your time here!
+I made this repo to provide an easy and organized way to know me a little better and navigate through my projects. I hope you enjoy your time here!
 
 🤝 Want to collaborate? Please email me at **z.rasolofo@gmail.com**
 
@@ -46,8 +46,8 @@ You can find it [HERE](https://foniyehoshoa.org)
 🔥 Je suis passionné par tout ce qui touche au DevOps, au développement, à l'IA/ML et à la tech en général!  
 🌐 Et je parle couramment anglais et français.
 
-J'ai créé ce repo afin de proposer un moyen simple et organisé de découvrir mes projets.  
-J'espère que vous apprécierez votre visite ici!
+J'ai créé ce repo afin de proposer un moyen simple et organisé de découvrir qui je suis et les projets sur lesquels j'ai pu travailler.  
+J'espère que vous apprécierez votre visite !
 
 🤝 Envie de collaborer ? N'hésitez pas à m'envoyer un email à **z.rasolofo@gmail.com**
 
