@@ -16,7 +16,7 @@ I made this repo to provide an easy and organized way to know me a little better
 - [Deploy and configure an infrastructure for production and testing + CI/CD](https://github.com/Zivan-R/MINI-PROJECT-ansible-jenkins-python) - ***DevOps***  
 *Microsoft Azure, Ansible, Git, GitHub, Jenkins, Docker, MySQL, Python, Pytest*
   
-Mini-project to experiment mainly with Ansible and Jenkins.  
+  Mini-project to experiment mainly with Ansible and Jenkins.  
 The goal was to deploy a simple infrastructure on Azure, automate it's configuration with Ansible and set up two simple CI/CD pipelines, one for production and another for testing environment with versionning using Git and GitHub.  
   
 - [Social media app with live chat](https://github.com/Zivan-R/PROJECT-live-chat-social-media-app) - ***Fullstack Development***  
