@@ -12,14 +12,13 @@ I made this repo to provide an easy and organized way to know me a little better
 
 
 # Projects
-## DevOps / Cloud
-- [Deploy and configure an infrastructure for production and testing + CI/CD](https://github.com/Zivan-R/MINI-PROJECT-ansible-jenkins-python)  
+  
+- [Deploy and configure an infrastructure for production and testing + CI/CD](https://github.com/Zivan-R/MINI-PROJECT-ansible-jenkins-python) - ***DevOps***
 *Microsoft Azure, Ansible, Git, GitHub, Jenkins, Docker, MySQL, Python, Pytest*  
 Mini-project to experiment mainly with Ansible and Jenkins.  
-The goal was to deploy a simple infrastructure on Azure, automate it's configuration with Ansible and set up two simple CI/CD pipelines, one for production and another for testing environment with versionning using Git and GitHub.
-
-## Dev
-- [Social media app with live chat](https://github.com/Zivan-R/PROJECT-live-chat-social-media-app)
+The goal was to deploy a simple infrastructure on Azure, automate it's configuration with Ansible and set up two simple CI/CD pipelines, one for production and another for testing environment with versionning using Git and GitHub.  
+  
+- [Social media app with live chat](https://github.com/Zivan-R/PROJECT-live-chat-social-media-app) - ***Fullstack Development***  
 *Fullstack app made with Django, Vue3, TailwindCSS, SQLite (db) and SocketIO (for the live chat)*  
 Features:
    - Account creation
@@ -31,7 +30,7 @@ Features:
    - A main live chat (a tribute to the good old days of IRC)
    - And of course all of this is recorded in a well organized database. (SQLite for convenience)
 
-- [Website for the non-profit "Foni'Yehoshoa"](https://github.com/Zivan-R/PROJET-site-web-pour-l-association-foni-yehoshoa)
+- [Website for the non-profit "Foni'Yehoshoa"](https://github.com/Zivan-R/PROJET-site-web-pour-l-association-foni-yehoshoa) - ***Front-end Development***  
 *Website made in Vue3 and TailwindCSS* 
 
   Foni'Yehoshoa is a christian non-profit that mainly aims to act in favor of Madagascar, my origin country  
@@ -39,7 +38,8 @@ It's a project that is close to my heart and while frontend is clearly not my fo
 You can find it [HERE](https://foniyehoshoa.org)
 
 ---
-
+---
+  
 ## [FR] (English above)
 **Le moyen simple et rapide de naviguer à travers tous mes projets**  
 👋 Salut ! Je m'appelle Zivan, je suis DevOps/Cloud Engineer junior!  
@@ -52,14 +52,13 @@ J'espère que vous apprécierez votre visite !
 🤝 Envie de collaborer ? N'hésitez pas à m'envoyer un email à **z.rasolofo@gmail.com**
 
 # Projets
-## DevOps / Cloud
-- [Déploiement et configuration d'une infrastructure pour la production et les tests + CI/CD](https://github.com/Zivan-R/MINI-PROJECT-ansible-jenkins-python)  
+  
+- [Déploiement et configuration d'une infrastructure pour la production et les tests + CI/CD](https://github.com/Zivan-R/MINI-PROJECT-ansible-jenkins-python) - ***DevOps***  
 *Microsoft Azure, Ansible, Git, GitHub, Jenkins, Docker, MySQL, Python, Pytest*  
 Mini-projet axé principalement sur Ansible et Jenkins.  
 L'objectif était de déployer une infrastructure simple sur Azure, d'automatiser sa configuration avec Ansible et de mettre en place deux pipelines CI/CD distincts : l'un pour la production et l'autre pour l'environnement de test, avec gestion de version via Git et GitHub.
-
-## Dev
-- [Réseau social avec chat en direct](https://github.com/Zivan-R/PROJECT-live-chat-social-media-app)
+  
+- [Réseau social avec chat en direct](https://github.com/Zivan-R/PROJECT-live-chat-social-media-app) - ***Développement Fullstack***  
 *Application fullstack réalisée avec Django, Vue3, TailwindCSS, SQLite (pour la db) et SocketIO (pour le chat en direct)*  
 Fonctionnalités :
    - Création de compte
@@ -70,10 +69,10 @@ Fonctionnalités :
    - Possibilité de commenter des publications + liker les publications et commentaires
    - Un chat principal en direct (hommage aux bons vieux jours de l'IRC)
    - Et bien sûr, tout cela est enregistré dans une base de données bien organisée (SQLite pour la simplicité)
-
-- [Site web pour l'association "Foni'Yehoshoa"](https://github.com/Zivan-R/PROJET-site-web-pour-l-association-foni-yehoshoa)
+  
+- [Site web pour l'association "Foni'Yehoshoa"](https://github.com/Zivan-R/PROJET-site-web-pour-l-association-foni-yehoshoa) - ***Développement Front-end***  
 *Site web développé avec Vue3 et TailwindCSS* 
-
+  
   Foni'Yehoshoa est une association chrétienne à but non lucratif ayant pour principal objectif d’agir en faveur de Madagascar, mon pays d'origine.  
 C’est donc un projet qui me tient particulièrement à cœur et, même si le frontend n’est pas mon domaine de prédiléction, j’ai fait de mon mieux pour concevoir leur site web.  
 Vous pouvez le retrouver [ICI](https://foniyehoshoa.org)
