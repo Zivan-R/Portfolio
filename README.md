@@ -1,5 +1,5 @@
 # My Portfolio Repository [ENG/FR]
-## English ([Français](#Français-(English))
+## English ([Français](#Français-(English)))
 **The quick and easy way to navigate through all of my projects**
 
 👋 Hello! My name is Zivan, I'm a junior DevOps/Cloud Engineer!  
