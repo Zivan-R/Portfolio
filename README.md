@@ -1,6 +1,7 @@
 # My Portfolio Repository [ENG/FR]
-## English  
-*([Français](#Français))*  
+## English
+*([Cliquer ici pour le Français](#Français))*  
+  
 **The quick and easy way to navigate through all of my projects**
 
 👋 Hello! My name is Zivan, I'm a junior DevOps/Cloud Engineer!  
@@ -42,8 +43,9 @@ You can find it [HERE](https://foniyehoshoa.org)
 ---
 ---
   
-## Français  
-*([English](#English))*  
+## Français
+*([Click here for English](#English))*  
+  
 **Le moyen simple et rapide de naviguer à travers tous mes projets**  
 👋 Salut ! Je m'appelle Zivan, je suis DevOps/Cloud Engineer junior!  
 🔥 Je suis passionné par tout ce qui touche au DevOps, au développement, à l'IA/ML et à la tech en général!  
