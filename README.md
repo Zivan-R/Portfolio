@@ -24,7 +24,7 @@ The goal was to deploy a simple infrastructure on Azure, automate it's configura
 - [Automate infrastructure provisioning  using CI/CD](https://github.com/Zivan-R/GKE-cicd-terraform-hello) - ***DevOps***
 *Google Kubernetes Engine, Terraform, GitHub Actions*
   
-Every push on the source code hosted on GitHub triggers a GitHub Actions CI/CD Pipeline that automatically creates/updates the whole infrastructure on Google Kubernetes Engine using Terraform.
+  Every push on the source code hosted on GitHub triggers a GitHub Actions CI/CD Pipeline that automatically creates/updates the whole infrastructure on Google Kubernetes Engine using Terraform.
   
 - [Social media app with live chat](https://github.com/Zivan-R/PROJECT-live-chat-social-media-app) - ***Fullstack Development***  
 *Django, Vue.js 3, TailwindCSS, SQLite, SocketIO*  
@@ -72,7 +72,7 @@ L'objectif était de déployer une infrastructure simple sur Azure, d'automatise
 - [Automatiser la mise en place d'une infrastructure via CI/CD](https://github.com/Zivan-R/GKE-cicd-terraform-hello) - ***DevOps***
 *Google Kubernetes Engine, Terraform, GitHub Actions*
   
-Chaque push sur le code source hébergé sur GitHub enclenche une pipeline CI/CD GitHub Actions qui va automatiquement créer/mettre à jour une infrastrucutre sur Google Kubernetes Engine avec Terraform.
+  Chaque push sur le code source hébergé sur GitHub enclenche une pipeline CI/CD GitHub Actions qui va automatiquement créer/mettre à jour une infrastrucutre sur Google Kubernetes Engine avec Terraform.
   
 - [Réseau social avec chat en direct](https://github.com/Zivan-R/PROJECT-live-chat-social-media-app) - ***Développement Fullstack***  
 *Django, Vue.js 3, TailwindCSS, SQLite, SocketIO*  
