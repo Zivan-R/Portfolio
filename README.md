@@ -42,7 +42,7 @@ Features:
 *Vue3, TailwindCSS* 
 
   Foni'Yehoshoa is a christian non-profit that mainly aims to act in favor of Madagascar, my origin country  
-It's a project that is close to my heart and while frontend is clearly not my forte, I tried my best to design their website.  
+It's a project that is close to my heart.   
 You can find it [HERE](https://foniyehoshoa.org)
 
 ---
@@ -90,5 +90,5 @@ Fonctionnalités :
 *Site web développé avec Vue3 et TailwindCSS* 
   
   Foni'Yehoshoa est une association chrétienne à but non lucratif ayant pour principal objectif d’agir en faveur de Madagascar, mon pays d'origine.  
-C’est donc un projet qui me tient particulièrement à cœur et, même si le frontend n’est pas mon domaine de prédiléction, j’ai fait de mon mieux pour concevoir leur site web.  
+C’est donc un projet qui me tient particulièrement à cœur.  
 Vous pouvez le retrouver [ICI](https://foniyehoshoa.org)
