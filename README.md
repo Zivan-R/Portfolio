@@ -21,6 +21,11 @@ I made this repo to provide an easy and organized way to know me a little better
   Project to experiment mainly with Ansible and Jenkins.  
 The goal was to deploy a simple infrastructure on Azure, automate it's configuration with Ansible and set up two simple CI/CD pipelines, one for production and another for testing environment with versionning using Git and GitHub.  
   
+- [Automate infrastructure provisioning  using CI/CD](https://github.com/Zivan-R/GKE-cicd-terraform-hello) - ***DevOps***
+*Google Kubernetes Engine, Terraform, GitHub Actions*
+  
+Every push on the source code hosted on GitHub triggers a GitHub Actions CI/CD Pipeline that automatically creates/updates the whole infrastructure on Google Kubernetes Engine using Terraform.
+  
 - [Social media app with live chat](https://github.com/Zivan-R/PROJECT-live-chat-social-media-app) - ***Fullstack Development***  
 *Django, Vue.js 3, TailwindCSS, SQLite, SocketIO*  
 Features:
@@ -63,6 +68,11 @@ J'espère que vous apprécierez votre visite !
   
   Projet axé principalement sur Ansible et Jenkins.  
 L'objectif était de déployer une infrastructure simple sur Azure, d'automatiser sa configuration avec Ansible et de mettre en place deux pipelines CI/CD distincts : l'un pour la production et l'autre pour l'environnement de test, avec gestion de version via Git et GitHub.
+  
+- [Automatiser la mise en place d'une infrastructure via CI/CD](https://github.com/Zivan-R/GKE-cicd-terraform-hello) - ***DevOps***
+*Google Kubernetes Engine, Terraform, GitHub Actions*
+  
+Chaque push sur le code source hébergé sur GitHub enclenche une pipeline CI/CD GitHub Actions qui va automatiquement créer/mettre à jour une infrastrucutre sur Google Kubernetes Engine avec Terraform.
   
 - [Réseau social avec chat en direct](https://github.com/Zivan-R/PROJECT-live-chat-social-media-app) - ***Développement Fullstack***  
 *Django, Vue.js 3, TailwindCSS, SQLite, SocketIO*  
