@@ -89,6 +89,5 @@ Fonctionnalités :
 - [Site web pour l'association "Foni'Yehoshoa"](https://github.com/Zivan-R/PROJET-site-web-pour-l-association-foni-yehoshoa) - ***Développement Front-end***  
 *Site web développé avec Vue3 et TailwindCSS* 
   
-  Foni'Yehoshoa est une association chrétienne à but non lucratif ayant pour principal objectif d’agir en faveur de Madagascar, mon pays d'origine.  
-C’est donc un projet qui me tient particulièrement à cœur.  
+  Foni'Yehoshoa est une association chrétienne à but non lucratif ayant pour principal objectif d’agir en faveur de Madagascar, mon pays d'origine. C’est un projet qui me tient particulièrement à cœur.  
 Vous pouvez le retrouver [ICI](https://foniyehoshoa.org)
