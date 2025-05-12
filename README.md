@@ -2,7 +2,7 @@
 ## English
 *([Cliquer ici pour le Français](#Français))*  
   
-**The quick and easy way to navigate through all of my projects**
+**The quick and easy way to navigate through my projects**
 
 👋 Hello! My name is Zivan, I'm a junior DevOps/Cloud Engineer!  
 🔥 I'm passionnate about everything related to DevOps, Dev, AI/ML and technology in general!  
@@ -51,7 +51,7 @@ You can find it [HERE](https://foniyehoshoa.org)
 ## Français
 *([Click here for English](#English))*  
   
-**Le moyen simple et rapide de naviguer à travers tous mes projets**  
+**Le moyen simple et rapide de naviguer à travers mes projets**  
 👋 Salut ! Je m'appelle Zivan, je suis DevOps/Cloud Engineer junior!  
 🔥 Je suis passionné par tout ce qui touche au DevOps, au développement, à l'IA/ML et à la tech en général!  
 🌐 Et je parle couramment anglais et français.
