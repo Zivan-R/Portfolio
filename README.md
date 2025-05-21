@@ -1,4 +1,4 @@
-# My Portfolio Repository [ENG/FR]
+# My Portfolio Repository [ENG | FR]
 ## English
 *([Cliquer ici pour le Français](#Français))*  
   
