@@ -27,10 +27,12 @@ The goal was to deploy a simple infrastructure on Azure, automate it's configura
   Every push on the source code hosted on GitHub triggers a GitHub Actions CI/CD Pipeline that automatically creates/updates the whole infrastructure on Google Kubernetes Engine using Terraform.
   
 - [Social media app with live chat](https://github.com/Zivan-R/PROJECT-live-chat-social-media-app) - ***Fullstack Development***  
-*Django, Vue.js 3, TailwindCSS, SQLite, SocketIO*  
+*Django, Vue.js 3, TailwindCSS, SQLite, SocketIO*
+  
 Updates to come:
    - Migration into a microservices architecture
-   - Transformation into a full DevOps project  
+   - Transformation into a full DevOps project
+  
 Features:
    - Account creation
    - Authentication
