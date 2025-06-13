@@ -80,7 +80,12 @@ L'objectif était de déployer une infrastructure simple sur Azure, d'automatise
   Chaque push sur le code source hébergé sur GitHub enclenche une pipeline CI/CD GitHub Actions qui va automatiquement créer/mettre à jour une infrastrucutre sur Google Kubernetes Engine avec Terraform.
   
 - [Réseau social avec chat en direct](https://github.com/Zivan-R/PROJECT-live-chat-social-media-app) - ***Développement Fullstack***  
-*Django, Vue.js 3, TailwindCSS, SQLite, SocketIO*  
+*Django, Vue.js 3, TailwindCSS, SQLite, SocketIO*
+
+Mises à jours en cours:
+   - Migration vers une architecture microservices
+   - Transformation vers un projet full DevOps
+  
 Fonctionnalités :
    - Création de compte
    - Authentification
