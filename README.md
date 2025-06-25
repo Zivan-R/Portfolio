@@ -15,17 +15,6 @@ I made this repo to provide an easy and organized way to know me a little better
 
 # Projects
   
-- [Deploy and configure an infrastructure for production and testing + CI/CD](https://github.com/Zivan-R/MINI-PROJECT-ansible-jenkins-python) - ***DevOps, Cloud***  
-*Microsoft Azure, Ansible, Git, GitHub, Jenkins, Docker, MySQL, Python, Pytest*
-  
-  Project to experiment mainly with Ansible and Jenkins.  
-The goal was to deploy a simple infrastructure on Azure, automate it's configuration with Ansible and set up two simple CI/CD pipelines, one for production and another for testing environment with versionning using Git and GitHub.  
-  
-- [Automate infrastructure provisioning  using CI/CD](https://github.com/Zivan-R/GKE-cicd-terraform-hello) - ***DevOps, Cloud***  
-*Google Kubernetes Engine, Terraform, GitHub Actions*
-  
-  Every push on the source code hosted on GitHub triggers a GitHub Actions CI/CD Pipeline that automatically creates/updates the whole infrastructure on Google Kubernetes Engine using Terraform.
-  
 - [Social media app with live chat](https://github.com/Zivan-R/PROJECT-live-chat-social-media-app) - ***Fullstack Development***  
 *Django, Vue.js 3, TailwindCSS, SQLite, SocketIO*
   
@@ -42,6 +31,17 @@ The goal was to deploy a simple infrastructure on Azure, automate it's configura
      - The possibility of commenting posts + liking posts and comments
      - A main live chat (a tribute to the good old days of IRC)
      - And of course all of this is recorded in a well organized database. (SQLite for convenience)
+  
+- [Deploy and configure an infrastructure for production and testing + CI/CD](https://github.com/Zivan-R/MINI-PROJECT-ansible-jenkins-python) - ***DevOps, Cloud***  
+*Microsoft Azure, Ansible, Git, GitHub, Jenkins, Docker, MySQL, Python, Pytest*
+  
+  Project to experiment mainly with Ansible and Jenkins.  
+The goal was to deploy a simple infrastructure on Azure, automate it's configuration with Ansible and set up two simple CI/CD pipelines, one for production and another for testing environment with versionning using Git and GitHub.  
+  
+- [Automate infrastructure provisioning  using CI/CD](https://github.com/Zivan-R/GKE-cicd-terraform-hello) - ***DevOps, Cloud***  
+*Google Kubernetes Engine, Terraform, GitHub Actions*
+  
+  Every push on the source code hosted on GitHub triggers a GitHub Actions CI/CD Pipeline that automatically creates/updates the whole infrastructure on Google Kubernetes Engine using Terraform.
 
 - [Website for the non-profit "Foni'Yehoshoa"](https://github.com/Zivan-R/PROJET-site-web-pour-l-association-foni-yehoshoa) - ***Front-end Development***  
 *Vue3, TailwindCSS* 
