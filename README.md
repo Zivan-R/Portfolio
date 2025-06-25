@@ -29,19 +29,19 @@ The goal was to deploy a simple infrastructure on Azure, automate it's configura
 - [Social media app with live chat](https://github.com/Zivan-R/PROJECT-live-chat-social-media-app) - ***Fullstack Development***  
 *Django, Vue.js 3, TailwindCSS, SQLite, SocketIO*
   
-Updates to come:
-   - Migration into a microservices architecture
-   - Transformation into a full DevOps project
-  
-Features:
-   - Account creation
-   - Authentication
-   - REST API
-   - A friend system
-   - A personnal "wall" accessible to other users
-   - The possibility of commenting posts + liking posts and comments
-   - A main live chat (a tribute to the good old days of IRC)
-   - And of course all of this is recorded in a well organized database. (SQLite for convenience)
+  - Updates to come:
+     - Migration into a microservices architecture
+     - Transformation into a full DevOps project
+    
+  - Features:
+     - Account creation
+     - Authentication
+     - REST API
+     - A friend system
+     - A personnal "wall" accessible to other users
+     - The possibility of commenting posts + liking posts and comments
+     - A main live chat (a tribute to the good old days of IRC)
+     - And of course all of this is recorded in a well organized database. (SQLite for convenience)
 
 - [Website for the non-profit "Foni'Yehoshoa"](https://github.com/Zivan-R/PROJET-site-web-pour-l-association-foni-yehoshoa) - ***Front-end Development***  
 *Vue3, TailwindCSS* 
