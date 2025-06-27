@@ -71,20 +71,20 @@ J'espère que vous apprécierez votre visite !
   - [Réseau social avec chat en direct](https://github.com/Zivan-R/PROJECT-live-chat-social-media-app) - ***Développement Fullstack***  
 *Django, Vue.js 3, TailwindCSS, SQLite, SocketIO*
 
-  - Mises à jours en cours:
-     - Migration vers une architecture microservices
-     - Transformation vers un projet full DevOps
-    
-  - Fonctionnalités :
-     - Création de compte
-     - Authentification
-     - API REST
-     - Système d'amis
-     - Un "Mur" personnel accessible aux autres utilisateurs
-     - Possibilité de commenter des publications + liker les publications et commentaires
-     - Un chat principal en direct (hommage aux bons vieux jours de l'IRC)
-     - Et bien sûr, tout cela est enregistré dans une base de données bien organisée (SQLite pour la simplicité)
-    
+    - Mises à jours à venir:
+       - Migration vers une architecture microservices
+       - Transformation vers un projet full DevOps
+      
+    - Fonctionnalités :
+       - Création de compte
+       - Authentification
+       - API REST
+       - Système d'amis
+       - Un "Mur" personnel accessible aux autres utilisateurs
+       - Possibilité de commenter des publications + liker les publications et commentaires
+       - Un chat principal en direct (hommage aux bons vieux jours de l'IRC)
+       - Et bien sûr, tout cela est enregistré dans une base de données bien organisée (SQLite pour la simplicité)
+      
 - [Déploiement et configuration d'une infrastructure pour la production et les tests + CI/CD](https://github.com/Zivan-R/MINI-PROJECT-ansible-jenkins-python) - ***DevOps, Cloud***  
 *Microsoft Azure, Ansible, Git, GitHub, Jenkins, Docker, MySQL, Python, Pytest*
   
