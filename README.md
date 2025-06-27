@@ -67,7 +67,24 @@ J'espère que vous apprécierez votre visite !
 🤝 Envie de collaborer ? N'hésitez pas à m'envoyer un email à **z.rasolofo@gmail.com**
 
 # Projets
-  
+
+  - [Réseau social avec chat en direct](https://github.com/Zivan-R/PROJECT-live-chat-social-media-app) - ***Développement Fullstack***  
+*Django, Vue.js 3, TailwindCSS, SQLite, SocketIO*
+
+  - Mises à jours en cours:
+     - Migration vers une architecture microservices
+     - Transformation vers un projet full DevOps
+    
+  - Fonctionnalités :
+     - Création de compte
+     - Authentification
+     - API REST
+     - Système d'amis
+     - Un "Mur" personnel accessible aux autres utilisateurs
+     - Possibilité de commenter des publications + liker les publications et commentaires
+     - Un chat principal en direct (hommage aux bons vieux jours de l'IRC)
+     - Et bien sûr, tout cela est enregistré dans une base de données bien organisée (SQLite pour la simplicité)
+    
 - [Déploiement et configuration d'une infrastructure pour la production et les tests + CI/CD](https://github.com/Zivan-R/MINI-PROJECT-ansible-jenkins-python) - ***DevOps, Cloud***  
 *Microsoft Azure, Ansible, Git, GitHub, Jenkins, Docker, MySQL, Python, Pytest*
   
@@ -78,23 +95,6 @@ L'objectif était de déployer une infrastructure simple sur Azure, d'automatise
 *Google Kubernetes Engine, Terraform, GitHub Actions*
   
   Chaque push sur le code source hébergé sur GitHub enclenche une pipeline CI/CD GitHub Actions qui va automatiquement créer/mettre à jour une infrastrucutre sur Google Kubernetes Engine avec Terraform.
-  
-- [Réseau social avec chat en direct](https://github.com/Zivan-R/PROJECT-live-chat-social-media-app) - ***Développement Fullstack***  
-*Django, Vue.js 3, TailwindCSS, SQLite, SocketIO*
-
-Mises à jours en cours:
-   - Migration vers une architecture microservices
-   - Transformation vers un projet full DevOps
-  
-Fonctionnalités :
-   - Création de compte
-   - Authentification
-   - API REST
-   - Système d'amis
-   - Un "Mur" personnel accessible aux autres utilisateurs
-   - Possibilité de commenter des publications + liker les publications et commentaires
-   - Un chat principal en direct (hommage aux bons vieux jours de l'IRC)
-   - Et bien sûr, tout cela est enregistré dans une base de données bien organisée (SQLite pour la simplicité)
   
 - [Site web pour l'association "Foni'Yehoshoa"](https://github.com/Zivan-R/PROJET-site-web-pour-l-association-foni-yehoshoa) - ***Développement Front-end***  
 *Site web développé avec Vue3 et TailwindCSS* 
