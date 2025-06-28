@@ -18,7 +18,7 @@ I made this repo to provide an easy and organized way to know me a little better
 - [Social media app with live chat](https://github.com/Zivan-R/PROJECT-live-chat-social-media-app) - ***Fullstack Development***  
 *Django, Vue.js 3, TailwindCSS, SQLite, SocketIO*
   
-  - Updates to come:
+  - Updates to come:  
      - Migration into a microservices architecture
      - Transformation into a full DevOps project
     
@@ -71,7 +71,7 @@ J'espère que vous apprécierez votre visite !
   - [Réseau social avec chat en direct](https://github.com/Zivan-R/PROJECT-live-chat-social-media-app) - ***Développement Fullstack***  
 *Django, Vue.js 3, TailwindCSS, SQLite, SocketIO*
 
-    - Mises à jours à venir:
+    - Mises à jours à venir:  
        - Migration vers une architecture microservices
        - Transformation vers un projet full DevOps
       
