@@ -1,5 +1,5 @@
 # My Portfolio Repository [ENG | FR]
-## English
+## English  
 *([Cliquer ici pour le Français](#Français))*  
   
 **The quick and easy way to navigate through my projects**
